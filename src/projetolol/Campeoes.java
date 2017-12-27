@@ -18,6 +18,7 @@ public class Campeoes {
     private String campeoes[];
     
     public Campeoes(){
+        
         String arr = "";
         try {
             FileReader arq = new FileReader("camp.txt");

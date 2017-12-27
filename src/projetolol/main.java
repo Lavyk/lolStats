@@ -22,6 +22,7 @@ public class main extends javax.swing.JFrame {
         
         initComponents();
         listChamps.setModel(model);
+        
     }
 
     /**
